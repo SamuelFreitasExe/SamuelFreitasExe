@@ -15,7 +15,8 @@ Bem-vindo ao meu perfil do GitHub! Sou desenvolvedor de software apaixonado por 
 ### 🌟 Estou Desenvolvendo:
 - **Linguagens:** SQL, JavaScript  
 - **Frameworks:** Node.js, React  
-- **Ferramentas:** Git, VS Code, Docker  
+- **Bibliotecas e Ferramentas de UI:** Bootstrap  
+- **Ferramentas:** Git, VS Code, Docker 
 
 ### 📚 Aprendendo:
 - **Linguagens:** TypeScript, Python, C#  
