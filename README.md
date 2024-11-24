@@ -37,7 +37,7 @@ Bem-vindo ao meu perfil do GitHub! Sou desenvolvedor de software apaixonado por 
 ---
 
 ## 🛠️ Projetos em Destaque:
-- [Meu Projeto Incrível](https://github.com/SamuelFreitasExe/projeto-incrivel) - *Breve descrição do projeto.*  
+- [Meu Projeto ](https://github.com/SamuelFreitasExe/projeto-incrivel) - *Breve descrição do projeto.*  
 - [Ferramenta de Automação](https://github.com/SamuelFreitasExe/ferramenta-automacao) - *Breve descrição.*  
 
 ---
